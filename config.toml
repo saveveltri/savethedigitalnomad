@@ -1,6 +1,6 @@
-baseurl = "https://saveveltri.github.io/savethedigitalnomad"
+baseurl = "https://saveveltri.github.io/savethedigitalnomad/"
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "Save The Digital Nomad"
 theme = "blist"
 
 DefaultContentLanguage = "en"
